@@ -1,12 +1,11 @@
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Artur!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Mardoqueu!;" />
 </h1>
 
 <div  align="center" >
   - 🔭 Atualmente estou trabalhando como freelancer ...
-  <br>
-- 🌱 Atualmente estou estudando react, typescript, Tailwind css ...
+- 🌱 
 </div>
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
@@ -24,7 +23,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=mardoqueudickson1-debv&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true" />
