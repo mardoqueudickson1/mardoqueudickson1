@@ -26,8 +26,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
-![GitHub stats](https://img.shields.io/badge/dynamic/json?label=Code%20View&query=%24.views&url=https://api.github.com/repos/{mardoqueudickson1}/{repo}/traffic/views&color=blue)
-![GitHub stats](https://img.shields.io/badge/dynamic/json?label=Issues&query=%24.count&url=https://api.github.com/repos/{mardoqueudickson1}/{repo}/issues&color=green)
-![GitHub stats](https://img.shields.io/badge/dynamic/json?label=Commits&query=%24.total_commits&url=https://api.github.com/repos/{mardoqueudickson1}/{repo}/stats/participation&color=orange)
-![GitHub stats](https://img.shields.io/badge/dynamic/json?label=PRs&query=%24.pulls&url=https://api.github.com/repos/{mardoqueudickson1}/{repo}/pulls&color=red)
+
 
